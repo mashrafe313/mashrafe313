@@ -1,23 +1,69 @@
-# 👋 Hi, I'm Mahin MASHRAFE
+<!-- ========================================================= -->
+<!--                     PROFILE BANNER                        -->
+<!-- ========================================================= -->
 
-### 💻 Frontend Developer | Web Developer
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Mahin MASHRAFE - Frontend Developer"
+    width="100%"
+  />
+</p>
 
-I'm a passionate **Frontend Developer from Bangladesh 🇧🇩** who enjoys building modern, responsive, and user-friendly web applications.
+<!-- ========================================================= -->
+<!--                        INTRO                              -->
+<!-- ========================================================= -->
 
-I’m continuously learning and improving my skills in modern web development, with a focus on creating clean interfaces and practical projects.
+<h1 align="center">Hi 👋, I'm Mahin MASHRAFE</h1>
+
+<p align="center">
+  <strong>Frontend Developer</strong> • Bangladesh 🇧🇩
+</p>
+
+<p align="center">
+  I build modern, responsive and user-friendly web experiences
+  while continuously learning and improving my development skills.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mashrafe313">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mashrafe313">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahin.mashrafe707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
 
-* 💻 Frontend Developer
-* 🌱 Currently improving my web development skills
-* ⚛️ Interested in React and modern frontend technologies
-* 🎨 Love creating responsive and clean UI
-* 🧠 Always learning something new
-* 📍 Bangladesh 🇧🇩
+## 👨‍💻 About Me
+
+I'm **Mahin MASHRAFE**, a Frontend Developer from **Bangladesh 🇧🇩**.
+
+I enjoy turning ideas and designs into responsive websites and web applications. I'm focused on writing clean code, creating user-friendly interfaces, and continuously improving my development skills.
+
+### 🚀 Currently
+
+- 🌱 Improving my JavaScript and React skills
+- ⚛️ Building projects with React
+- 🎨 Creating responsive interfaces with Tailwind CSS
+- 🧩 Exploring modern frontend development
+- 🔧 Learning more about Node.js and backend development
+- 🚀 Building real-world projects
+- 📚 Continuously learning new technologies
 
 ---
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
 
 ## 🛠️ Tech Stack
 
@@ -36,107 +82,100 @@ I’m continuously learning and improving my skills in modern web development, w
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 </p>
 
 ---
 
-## 💻 Technologies I Work With
+## 💡 Technologies
 
-| Category        | Technologies                 |
-| --------------- | ---------------------------- |
-| Frontend        | HTML, CSS, JavaScript, React |
-| Styling         | Tailwind CSS                 |
-| Backend         | Node.js                      |
-| Database        | MySQL                        |
-| Version Control | Git, GitHub                  |
-| Editor          | VS Code                      |
-
----
-
-## 📌 Featured Projects
-
-I'm currently building and improving my projects.
-
-### 🚀 DevConf 2026
-
-A modern conference website created from a Figma/Penpot design using HTML and CSS.
-
-**Tech:** HTML · CSS
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, React |
+| **Styling** | Tailwind CSS |
+| **Backend** | Node.js |
+| **Database** | MySQL |
+| **Version Control** | Git, GitHub |
+| **Development Tool** | VS Code |
 
 ---
 
-### 🧩 DevStack
+<!-- ========================================================= -->
+<!--                     FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
 
-A web project focused on building a modern developer-oriented interface.
+## 🚀 Featured Projects
 
-**Tech:** HTML · CSS · JavaScript · React
+### 🎤 DevConf 2026
 
----
+A modern conference website designed and developed for **DevConf 2026**.
+
+The project focuses on presenting conference information through a clean, responsive interface with dedicated sections for speakers, pricing and the hackathon.
+
+#### ✨ Highlights
+
+- 🎯 Hero section
+- 🎤 Speakers section
+- 🏷️ Speaker tracks
+- 💳 Pricing plans
+- 🚀 Hackathon section
+- 📱 Responsive layout
+- 🎨 Modern UI
+- 🔗 Registration call-to-actions
 
 
+#### 🌐 Live Demo
 
----
+👉 [View DevConf 2026](https://mashrafe313.github.io/PH_assignment-1_DevConf2026/)
 
-## 🔥 GitHub Streak
+#### 💻 Source Code
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mashrafe313&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:mahin.mashrafe707@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mashrafe313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.facebook.com/mashrafe313">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/mashrafe313">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+👉 [View Repository](https://github.com/Mashrafe313/PH_assignment-1_DevConf2026)
 
 ---
 
-## 🎯 2026 Goals
+### 💻 DevStack
+
+A developer-focused web project created as part of my web development journey.
+
+The project explores modern interface design and practical frontend development.
+
+#### ✨ Highlights
+
+- 🖥️ Modern user interface
+- 📱 Responsive design
+- 🎨 Clean visual design
+- 🧩 Interactive web experience
+- 🚀 Practical frontend project
+
+
+
+> Update the technologies above if the actual DevStack repository uses a different stack.
+
+#### 🌐 Live Demo
+
+👉 [View DevStack](https://dev-stack-2.netlify.app/)
+
+#### 💻 Source Code
+
+👉 [View Repository](https://github.com/mashrafe313/DevStack.git)
+
+---
+
+<!-- ========================================================= -->
+<!--                    PROJECT PHILOSOPHY                      -->
+<!-- ========================================================= -->
+
+## 🎯 What I Focus On
 
 ```text
-▸ Improve JavaScript & React skills
-▸ Build more real-world projects
-▸ Learn advanced frontend development
-▸ Improve backend development with Node.js
-▸ Build full-stack applications
-▸ Contribute to open-source projects
-```
-
----
-
-## 💭 Developer Mindset
-
-> "Every expert was once a beginner."
-
-I'm focused on learning consistently, building projects, and becoming a better developer one step at a time.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mashrafe313&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-  <b>Let's build something awesome together 🚀</b>
-</p>
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   🎨 Clean UI                                   │
+│   📱 Responsive Design                          │
+│   ⚡ Performance                                │
+│   🧩 Reusable Components                        │
+│   🧠 Problem Solving                            │
+│   📚 Continuous Learning                        │
+│                                                 │
+└─────────────────────────────────────────────────┘
