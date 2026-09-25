@@ -1,6 +1,3 @@
-<!-- ========================================================= -->
-<!--                     PROFILE BANNER                        -->
-<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -17,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Mahin MASHRAFE</h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong> • Bangladesh 🇧🇩
+  <strong>Frontend Developer</strong> • Bangladesh
 </p>
 
 <p align="center">
@@ -39,13 +36,11 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
+
 
 ## 👨‍💻 About Me
 
-I'm **Mahin MASHRAFE**, a Frontend Developer from **Bangladesh 🇧🇩**.
+I'm **Mahin MASHRAFE**, a Frontend Developer from **Bangladesh**.
 
 I enjoy turning ideas and designs into responsive websites and web applications. I'm focused on writing clean code, creating user-friendly interfaces, and continuously improving my development skills.
 
@@ -61,9 +56,7 @@ I enjoy turning ideas and designs into responsive websites and web applications.
 
 ---
 
-<!-- ========================================================= -->
-<!--                     TECH STACK                            -->
-<!-- ========================================================= -->
+
 
 ## 🛠️ Tech Stack
 
@@ -100,9 +93,7 @@ I enjoy turning ideas and designs into responsive websites and web applications.
 
 ---
 
-<!-- ========================================================= -->
-<!--                     FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
+
 
 ## 🚀 Featured Projects
 
@@ -162,9 +153,7 @@ The project explores modern interface design and practical frontend development.
 
 ---
 
-<!-- ========================================================= -->
-<!--                    PROJECT PHILOSOPHY                      -->
-<!-- ========================================================= -->
+
 
 ## 🎯 What I Focus On
 
