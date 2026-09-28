@@ -7,9 +7,8 @@
   />
 </p>
 
-<!-- ========================================================= -->
-<!--                        INTRO                              -->
-<!-- ========================================================= -->
+
+
 
 <h1 align="center">Hi 👋, I'm Mahin MASHRAFE</h1>
 
@@ -95,7 +94,7 @@ I enjoy turning ideas and designs into responsive websites and web applications.
 
 
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 ### 🎤 DevConf 2026
 
@@ -153,7 +152,7 @@ The project explores modern interface design and practical frontend development.
 
 ---
 
-
+-->
 
 ## 🎯 What I Focus On
 
@@ -168,3 +167,68 @@ The project explores modern interface design and practical frontend development.
 │   📚 Continuous Learning                        │
 │                                                 │
 └─────────────────────────────────────────────────┘
+```
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/mashrafe313">
+    <img
+      src="https://streak-stats.demolab.com/?user=mashrafe313&theme=tokyonight&hide_border=true"
+      alt="Mahin Mashrafe GitHub Streak"
+    />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:mahin.mashrafe707@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://facebook.com/mashrafe313">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
+
+  <a href="https://discord.com/users/mashrafe313">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
+
+  <a href="https://github.com/mashrafe313">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=mashrafe313&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+<p align="center">
+  <strong>✨ Thanks for visiting my profile! ✨</strong>
+</p>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
